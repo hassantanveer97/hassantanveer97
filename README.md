@@ -5,15 +5,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassantanveer97&show_icons=true&theme=radical&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hassantanveer97&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassantanveer97&layout=compact&theme=radical" />
-</a>
-
 ## 🚀 About Me
 I am a software engineer with experience in developing web applications using React, Django, and NodeJS. I have a BS in Computer Science from Lahore University of Management Sciences. I have worked on a range of projects from developing assessment platforms to speaker recognition systems.
 
