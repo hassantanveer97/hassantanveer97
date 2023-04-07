@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hassantanveer97)](https://github.com/hassantanveer97)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan-tanveer-se)](https://www.linkedin.com/in/hassan-tanveer-se)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassantanveer97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassantanveer97&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
 I am a software engineer with experience in developing web applications using React, Django, and NodeJS. I have a BS in Computer Science from Lahore University of Management Sciences with a GPA of 3.51/4.00. I have worked on a range of projects from developing assessment platforms to speaker recognition systems.
