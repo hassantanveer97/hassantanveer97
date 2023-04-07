@@ -6,14 +6,14 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassantanveer97&show_icons=true&theme=radical&count_private=true&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 About Me
-I am a software engineer with experience in developing web applications using React, Django, and NodeJS. I have a BS in Computer Science from Lahore University of Management Sciences with a GPA of 3.51/4.00. I have worked on a range of projects from developing assessment platforms to speaker recognition systems.
+I am a software engineer with experience in developing web applications using React, Django, and NodeJS. I have a BS in Computer Science from Lahore University of Management Sciences. I have worked on a range of projects from developing assessment platforms to speaker recognition systems.
 
 ## 🛠 Skills
 ### Programming Languages
-Python, JavaScript, TypeScript, HTML, C++, SQL, GoLang, Rust
+Python, JavaScript, TypeScript, HTML, C++, SQL
 
 ### Frontend Frameworks
-React, Redux, React Native, MUI, Bootstrap, Tailwind, Vue, Angular
+React, Redux, React Native, MUI, Bootstrap, Tailwind
 
 ### Backend Frameworks
 Django, Django Rest Framework, NodeJS, MongoDB, ExpressJS, MySQL
@@ -33,11 +33,11 @@ Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
 - Built more than 20 REST APIs with Django Rest Framework to integrate Open edX with LitmusTest.
 - Revamped the representation of data by adding feature-rich data tables; reduced customer complaints by 80%.
 - Mapped out a roadmap with 3 teams to build an MVP based on a Project-Led Growth approach.
-- Integrated Stripe Payments to generate revenue stream for the project by 50%.
+- Integrated Stripe Payments to generate revenue stream for the project.
 - Integrated Swagger to auto-generate documentation for APIs; saved 10s of hours of manual documentation.
-- Integrated social login with Google OAuth and increased customer acquisition by 35%.
+- Integrated social login with Google OAuth and increased customer acquisition.
 
-### Software Engineer Lead - SampleTest
+### Software Engineer - SampleTest
 - Launched a Django-based website; processed registrations for 12,000 candidates for the company's hiring test.
 - Collaborated with 2 designers and HR team to complete the project design within 2 weeks.
 - Deployed the website on AWS and automated delivery process with a CI/CD pipeline.
